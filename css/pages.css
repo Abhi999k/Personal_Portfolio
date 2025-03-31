@@ -1,0 +1,107 @@
+/* Page Header for separate pages */
+.page-header {
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    color: #2e2e3e;
+    text-align: center;
+    padding: 8rem 5% 4rem;
+    margin-bottom: 2rem;
+}
+
+.page-header h1 {
+    font-size: 3rem;
+    margin: 0;
+    font-weight: 700;
+}
+
+/* Certifications Section */
+.certifications-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.certification-card {
+    display: flex;
+    background: var(--card-bg);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px var(--shadow-color);
+    transition: var(--transition);
+    padding: 1.5rem;
+}
+
+.certification-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.certification-icon {
+    flex: 0 0 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.certification-icon i {
+    font-size: 3rem;
+    color: var(--primary-color);
+}
+
+.certification-content {
+    flex: 1;
+    padding-left: 1.5rem;
+}
+
+.certification-content h3 {
+    margin: 0 0 0.5rem;
+    color: var(--primary-color);
+}
+
+.certification-content .issuer {
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+}
+
+.certification-content .date {
+    font-size: 0.8rem;
+    opacity: 0.8;
+    margin-bottom: 1rem;
+}
+
+.certification-content .description {
+    margin-bottom: 1.5rem;
+}
+
+.btn-small {
+    padding: 0.5rem 1rem;
+    font-size: 0.8rem;
+}
+
+/* Project page enhancements */
+.project-links {
+    display: flex;
+    gap: 1rem;
+    padding: 0 1.5rem 1rem;
+}
+
+.tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    padding: 0 1.5rem 1.5rem;
+}
+
+.tech-stack span {
+    background-color: var(--shadow-color);
+    color: var(--text-color);
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+}
+
+/* Active state for navigation */
+.nav-links a.active {
+    color: var(--primary-color);
+    font-weight: 700;
+}
