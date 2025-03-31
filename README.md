@@ -80,16 +80,18 @@
 - LinkedIn: [Abhishek Kaushik](https://www.linkedin.com/in/abhishek-kaushik-b677a2260)
 - GitHub: [Abhi999k](https://github.com/Abhi999k)
 
-
+<div align="center">
+  
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kaushik-b677a2260)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhi999k)
-<br>
+<br><br>
 [![Website Status](https://img.shields.io/website?url=https://github.com/Abhi999k/portfolio)](https://github.com/Abhi999k/portfolio)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Abhi999k.portfolio)](https://github.com/Abhi999k/portfolio)
 [![Code Size](https://img.shields.io/github/languages/code-size/Abhi999k/portfolio)](https://github.com/Abhi999k/portfolio)
 [![Last Commit](https://img.shields.io/github/last-commit/Abhi999k/portfolio)](https://github.com/Abhi999k/portfolio)
 
 <br>[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+</dev>
