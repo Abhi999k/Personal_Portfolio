@@ -18,23 +18,20 @@
   - Contact information
 
 ## 🛠️ Technologies Used:
-
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome Icons
-- Modern CSS Features (Flexbox, Grid, Animations)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 🚀 Getting Started:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abhi999k/Portfolio.git
+   git clone https://github.com/Abhi999k/Personal_Portfolio.git
    ```
 
 2. Open `index.html` in your browser to view the website
 
-## 📂 Project Structure
+## 📂 Project Structure:
 
 ```
 |── index.html          # Main HTML file
@@ -45,7 +42,7 @@
 └── assets/             # Images and other assets
 ```
 
-## 🎨 Features in Detail
+## 🎨 Features in Detail:
 
 ### Home Section:
 - Professional introduction
@@ -75,23 +72,29 @@
 - Organized presentation of achievements
 
 ## 📱 Contact me for support:
-
-- Email: panditak095@gmail.com
-- LinkedIn: [Abhishek Kaushik](https://www.linkedin.com/in/abhishek-kaushik-b677a2260)
-- GitHub: [Abhi999k](https://github.com/Abhi999k)
-
 <div align="center">
   
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kaushik-b677a2260)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhi999k)
-<br><br>
+<a href="https://www.linkedin.com/in/abhishek-kaushik-b677a2260/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.x.com/Abhishek_9900" target="_blank"><img alt="x" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:panditak095@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/Abhishek.Kaushik0" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/rangbaaz_abhishek__/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a> 
+<a href="https://wa.me/917017212992?text=Hello%2C%20I%20want%20to%20connect%20with%20you!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<br>
 [![Website Status](https://img.shields.io/website?url=https://github.com/Abhi999k/portfolio)](https://github.com/Abhi999k/portfolio)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Abhi999k.portfolio)](https://github.com/Abhi999k/portfolio)
+<img src="https://sloc.xyz/github/Abhi999k/Personal_Portfolio"/>
 [![Code Size](https://img.shields.io/github/languages/code-size/Abhi999k/portfolio)](https://github.com/Abhi999k/portfolio)
-[![Last Commit](https://img.shields.io/github/last-commit/Abhi999k/portfolio)](https://github.com/Abhi999k/portfolio)
+<img src="https://img.shields.io/github/contributors/Abhi999k/Personal_Portfolio?color=2b9348" >
+<br>
+<img src="https://img.shields.io/github/stars/Abhi999k/Personal_Portfolio"/>
+<img src="https://img.shields.io/github/forks/Abhi999k/Personal_Portfolio"/>
 
-<br>[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-</dev>
+<img src="https://raw.githubusercontent.com/Abhi999k/Abhi999k/main/Assets/Credit.svg">
+  
+
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+</div>
+
+
+
