@@ -1,7 +1,13 @@
 # Portfolio Website:
 ## 🚩Front page of website:
 
-<br><img width="100%" src="src/src_desktop.png" >
+<table>
+    <tr>
+        <td><img width="100%" src="src/src_desktop.png" alt="Desktop View"></td>
+        <td><img width="100%" src="src/src_mobile.png" alt="Mobile View"></td>
+    </tr>
+</table>
+
 <br><br><h3>A modern, responsive portfolio website showcasing my skills, projects, and professional journey. Built with HTML, CSS, and JavaScript, featuring a clean design with dark/light theme support.<h3/>
 
 ## 🌟 Features:
