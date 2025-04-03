@@ -90,10 +90,10 @@
 <a href="https://www.instagram.com/rangbaaz_abhishek__/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 <a href="https://wa.me/917017212992?text=Hello%2C%20I%20want%20to%20connect%20with%20you!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <br>
-[![Website Status](https://img.shields.io/website?url=https://github.com/Abhi999k/portfolio)](https://github.com/Abhi999k/portfolio)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Abhi999k.portfolio)](https://github.com/Abhi999k/portfolio)
+[![Website Status](https://img.shields.io/website?url=https://github.com/Abhi999k/portfolio)](https://github.com/Abhi999k/Personal_Portfolio)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Abhi999k.portfolio)](https://github.com/Abhi999k/Personal_Portfolio)
 <img src="https://sloc.xyz/github/Abhi999k/Personal_Portfolio"/>
-[![Code Size](https://img.shields.io/github/languages/code-size/Abhi999k/portfolio)](https://github.com/Abhi999k/portfolio)
+[![Code Size](https://img.shields.io/github/languages/code-size/Abhi999k/portfolio)](https://github.com/Abhi999k/Personal_Portfolio)
 <img src="https://img.shields.io/github/contributors/Abhi999k/Personal_Portfolio?color=2b9348" >
 <br>
 <img src="https://img.shields.io/github/stars/Abhi999k/Personal_Portfolio"/>
