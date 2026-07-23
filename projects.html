@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects - Portfolio</title>
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/about.css">
+    <link rel="stylesheet" href="css/pages.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div id="canvas-container" aria-hidden="true"></div>
+    <script type="importmap">
+        {
+            "imports": {
+                "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+                "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+            }
+        }
+    </script>
+    <nav class="navbar">
+        <img src="assets/logo.png" alt="Logo" class="nav-logo-img">
+        <div class="nav-logo"><p>&lt; Abhishek Kaushik /&gt;</p>
+        </div>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="index.html#about">About Me</a></li>
+            <li><a href="index.html#skills">Skills</a></li>
+            <li><a href="projects.html" class="active">Projects</a></li>
+            <li><a href="certifications.html">Certifications</a></li>
+            <li><a href="#contact">Contact Me</a></li>
+        </ul>
+        <button class="theme-toggle" aria-label="Toggle theme">
+            <i class="fas fa-moon"></i>
+        </button>
+        <div class="hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </nav>
+
+    <section class="page-header">
+        <h1>My Projects</h1>
+    </section>
+
+    <section id="projects">
+        <div class="project-grid">
+            <div class="project-card">
+                <h3>1: AI Based Crime Detection System</h3>
+                <p><b>Description:</b> AI-Based Crime Detection and Prediction is a Computer Vision and Machine Learning-based system that analyzes historical crime records and live CCTV footage to detect suspicious activities and predict crime trends. Using a trained AI model.</p>
+                <div class="project-links">
+                    <a href="https://github.com/SIDDk1/Crime_Ranking" class="btn btn-small"><i class="fab fa-github"></i> GitHub</a>
+                    <a href="https://crime-ranking.vercel.app/" class="btn btn-small"><i class="fas fa-external-link-alt"></i> Live Demo</a>
+                </div>
+                <div class="tech-stack">
+                    <span>Python</span>
+                    <span>OpenCV</span>
+                    <span>FastAPI</span>
+                    <span>YOLOv8</span>
+                     <span>TensorFlow</span>
+                </div>
+            </div>
+            <div class="project-card">
+                <h3>3: Automated Calling app for businesses</h3>
+                <p><b>Description:</b> A pixel-perfect Flutter app inspired by Calley Mobile App, designed for automated call management and analytics.</p>
+                <div class="project-links">
+                    <a href="https://github.com/Abhi999k/Calley_v1" class="btn btn-small"><i class="fab fa-github"></i> GitHub</a>
+                </div>
+                <div class="tech-stack">
+                    <span>Flutter</span>
+                    <span>Dart</span>
+                    <span>Firebase</span>
+                </div>
+            </div>
+            <div class="project-card">
+                <h3>2: Todo App</h3>
+                <p><b>Description:</b> A sleek and simple To-Do list app built using React Native (Expo) with full Firebase authentication, username editing, and profile photo upload via Cloudinary. It includes a dashboard with two tabs: To-Do List and Profile.</p>
+                <div class="project-links">
+                    <a href="https://github.com/Abhi999k/ToDo_App" class="btn btn-small"><i class="fab fa-github"></i> GitHub</a>
+                </div>
+                <div class="tech-stack">
+                    <span>React Native</span>
+                    <span>Expo</span>
+                    <span>Firebase</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer id="contact">
+        <div class="footer-contact">
+            <h3>Contact Me</h3>
+            <div class="contact-info">
+                <div class="contact-item">
+                    <i class="fas fa-envelope"></i>
+                    <p>Email : <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhishek.work.cs@gmail.com" target="_blank" rel="noopener noreferrer">abhishek.work.cs@gmail.com</a></p>
+                </div>
+                <div class="contact-item">
+                    <i class="fas fa-phone"></i>
+                    <p>Phone : <a href="tel:+917017212992" target="_blank" rel="noopener noreferrer">+917017212992</a></p>
+                </div>
+                <div class="contact-item">
+                    <i class="fas fa-map-marker-alt"></i>
+                    <p>Agra, Uttar Pradesh, India</p>
+                </div>
+                <div class="contact-item">
+                    <i class="fab fa-telegram"></i>
+                    <p>Telegram: <a href="https://t.me/DEXTERisAK" target="_blank" rel="noopener noreferrer">@DEXTERisAK</a></p>
+                </div>
+            </div>
+        </div>
+        <p>&copy; 2026 Abhishek Kaushik. All rights reserved.</p>
+    </footer>
+    <script src="js/script.js"></script>
+    <script type="module" src="js/galaxy.js"></script>
+
+</body>
+</html>
